@@ -22,4 +22,4 @@ class CarroFacade {
         sistemaEletrico.desligarSeta();
         motor.desligar();
     }
-}.
+}
