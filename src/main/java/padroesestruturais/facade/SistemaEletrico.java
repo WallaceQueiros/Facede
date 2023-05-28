@@ -16,4 +16,4 @@ class SistemaEletrico {
     public void desligarSeta() {
         System.out.println("Seta desligada");
     }
-}
+}.
